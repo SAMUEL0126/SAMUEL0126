@@ -33,7 +33,9 @@
   <img align="center" alt="Rafa-VCode" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-   Visual_Studio_Code_1.35_icon.svg.png">
   <img align="center" alt="Rafa-Eclipse" height="40" width="40" src="https://user-images.githubusercontent.com/11943860/46922529-b28cdc80-cfe0-11e8-9aec-0091161d3599.png">
   <hr>
+   <p><b>- Others tools.</b></p>
   
+  <hr>
   <p><b>- Redes sociales.</b></p>
  <div> 
   <a href="https://www.instagram.com/samuel.lopez0114/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
