@@ -6,7 +6,7 @@
 </div>
   <hr>
   
-  <p><b>- Herramientas de programacion.</b></p>
+  <p><b>- Front-End.</b></p>
 <div style="display: inline_block"><br>
    <img align="center" alt="Rafa-nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Rafa-Api" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/2165/2165022.png">
@@ -22,6 +22,7 @@
     <img align="center" alt="Rafa-Django" height="40" width="40" src="https://icon-library.com/images/django-icon/django-icon-0.jpg">  
 
  <hr>
+  <p><b>- Back-End.</b></p>
    
   <p><b>- Redes sociales.</b></p>
  <div> 
