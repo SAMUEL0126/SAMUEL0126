@@ -25,6 +25,7 @@
  <div> 
   <a href="https://www.instagram.com/samuel.lopez0114/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href = "mailto:samuelelrey0126yt@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <hr>
    
    ![Snake animation](https://github.com/SAMUEL0126/SAMUEL0126/blob/output/github-contribution-grid-snake.svg)
 </div>
