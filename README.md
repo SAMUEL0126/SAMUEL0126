@@ -20,7 +20,7 @@
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
  
  <hr>
-   ##
+   
   <p><b>- Herramientas de programacion.</b></p>
  <div> 
   <a href="https://www.instagram.com/samuel.lopez0114/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
