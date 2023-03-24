@@ -1,8 +1,8 @@
 ## Front-End Developer
 <div align="center">
   <a href="https://github.com/SAMUEL0126">
-  <img height="160em"   src="https://github-readme-stats.vercel.app/api?username=SAMUEL0126&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="161em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAMUEL0126&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em"   src="https://github-readme-stats.vercel.app/api?username=SAMUEL0126&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="161em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAMUEL0126&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
   
@@ -16,7 +16,7 @@
   <img align="center" alt="Rafa-nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Rafa-Api" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/2165/2165022.png">
   <img align="center" alt="Rafa-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
- 
+  <img align="center" alt="Rafa-VCode" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"> 
  ##
   
  <div> 
