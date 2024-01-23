@@ -32,7 +32,6 @@
   <hr>
    <p><b>- Data Bases.</b></p>
    <img align="center" alt="Rafa-nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-   <img align="center" alt="Rafa-nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" />
   <hr>
   <p><b>- Social Networks.</b></p>
  <div> 
