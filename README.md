@@ -1,5 +1,5 @@
 <div align = "center">
- <div>
+ <div display = "flex">
  <p>!</p><img src="https://raw.githubusercontent.com/patrickwebsdev/patrickwebsdev/master/images/handshake.webp" width="30px" style="max-width: 100%;">
  <h1>Front-End And Back-End Developer</h1>
  <p>¡</p>
