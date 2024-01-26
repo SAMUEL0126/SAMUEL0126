@@ -1,6 +1,6 @@
 <div align = "center">
  <img src="https://raw.githubusercontent.com/patrickwebsdev/patrickwebsdev/master/images/handshake.webp" width="30px" style="max-width: 100%;">
- <h1>Front-End And Back-End Developer</h1>
+ <h1>Front And Back-End Developer</h1>
   </div>
 <div align="center">
   <a href="https://github.com/SAMUEL0126">
