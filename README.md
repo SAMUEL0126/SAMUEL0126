@@ -1,4 +1,4 @@
-## Front-End And Back-End Developer
+## Front-End And Back-End Developer<img src="https://raw.githubusercontent.com/patrickwebsdev/patrickwebsdev/master/images/handshake.webp" width="30px" style="max-width: 100%;">
 <div align="center">
   <a href="https://github.com/SAMUEL0126">
   <img height="160em"   src="https://github-readme-stats.vercel.app/api?username=SAMUEL0126&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
