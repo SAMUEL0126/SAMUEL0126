@@ -45,6 +45,7 @@
  <a href = "mailto:samuelelrey0126yt@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    </div>
     <img src="https://raw.githubusercontent.com/patrickwebsdev/patrickwebsdev/master/images/handshake.webp" width="30px" style="max-width: 100%;">
+   <hr>
 <div id="sfcj4xm22rhy3t36kmst8sau66uk54re4yq"></div>
 
 </div>
