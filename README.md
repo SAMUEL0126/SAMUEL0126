@@ -38,5 +38,7 @@
   <a href="https://www.instagram.com/samuel.lopez0114/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href = "mailto:samuelelrey0126yt@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <hr>
-<div class="w-full flex gap-px flex-wrap flex-col items-center justify-evenly relative bg-primary pb-10"><h5 class="text-2xl text-gray-400">Contador de visitas</h5><a href="https://www.contadorvisitasgratis.com" title="contador de visitas"><img src="https://counter2.optistats.ovh/private/contadorvisitasgratis.php?c=p19wt4huuukycwhwnka9t8eflkl8lsh6" border="0" title="contador de visitas" alt="contador de visitas"></a></div>
+<div id="sfcj4xm22rhy3t36kmst8sau66uk54re4yq"></div>
+<script type="text/javascript" src="https://counter7.optistats.ovh/private/counter.js?c=j4xm22rhy3t36kmst8sau66uk54re4yq&down=async" async></script>
+<noscript><a href="https://www.contadorvisitasgratis.com" title="contador de visitas para blogger"><img src="https://counter7.optistats.ovh/private/contadorvisitasgratis.php?c=j4xm22rhy3t36kmst8sau66uk54re4yq" border="0" title="contador de visitas para blogger" alt="contador de visitas para blogger"></a></noscript>
 </div>
