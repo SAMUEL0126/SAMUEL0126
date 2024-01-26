@@ -44,7 +44,6 @@
   <a href="https://www.instagram.com/samuel.lopez0114/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href = "mailto:samuelelrey0126yt@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    </div>
-   <hr>
     <img src="https://raw.githubusercontent.com/patrickwebsdev/patrickwebsdev/master/images/handshake.webp" width="30px" style="max-width: 100%;">
 <div id="sfcj4xm22rhy3t36kmst8sau66uk54re4yq"></div>
 
