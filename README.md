@@ -47,5 +47,5 @@
    <hr>
    
 <div id="sfcj4xm22rhy3t36kmst8sau66uk54re4yq"></div>
- <img width=400px height=100px src="/images/Logo Printex [Convertido].png" alt="Project logo"></a>
+
 </div>
