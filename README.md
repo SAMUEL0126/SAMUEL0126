@@ -2,7 +2,7 @@
  <img src="https://raw.githubusercontent.com/patrickwebsdev/patrickwebsdev/master/images/handshake.webp" width="30px" style="max-width: 100%;">
  <h1>Front And Back-End Developer</h1>
   </div>
-  - Hola, soy Samuel Lopez M., un programador junior de Armenia - Quindío (Colombia). Tengo experiencia en lenguajes de programación como: JavaScript (React),(Jquery), Python (Django).
+- Hola, soy Samuel Lopez M., un programador junior de Armenia - Quindío (Colombia). Tengo experiencia en lenguajes de programación como: JavaScript (React),(Jquery), Python (Django).
 
 - También tengo habilidades en el manejo de bases de datos como SQL Server y MySQL. Además, tengo experiencia en el desarrollo web con Django
   <br>
