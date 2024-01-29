@@ -9,7 +9,6 @@
  - También tengo habilidades en el manejo de bases de datos como SQL Server y MySQL. Además, tengo experiencia en el desarrollo web con Django
   
   <br>
-  <br>
 <div align="
  center">
   <a href="https://github.com/SAMUEL0126">
