@@ -7,6 +7,7 @@
   <img height="160em"   src="https://github-readme-stats.vercel.app/api?username=SAMUEL0126&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="161em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAMUEL0126&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+    <p><b>- Front-End -</b></p>
   <hr>
   
   <p><b>- Front-End -</b></p>
