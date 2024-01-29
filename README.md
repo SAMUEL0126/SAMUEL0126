@@ -7,7 +7,8 @@
   <img height="160em"   src="https://github-readme-stats.vercel.app/api?username=SAMUEL0126&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="161em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAMUEL0126&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-    <p><b>- Hola, soy Dairon Granada, un programador junior de Armenia - Quindío (Colombia). Tengo experiencia en lenguajes de programación como: JavaScript (React),(Jquery), Python (Django),(Flask).
+   <br>
+    <p><b>- Hola, soy Samuel Lopez M., un programador junior de Armenia - Quindío (Colombia). Tengo experiencia en lenguajes de programación como: JavaScript (React),(Jquery), Python (Django).
 
 También tengo habilidades en el manejo de bases de datos como SQL Server y MySQL. Además, tengo experiencia en el desarrollo web con Django -</b></p>
   <hr>
