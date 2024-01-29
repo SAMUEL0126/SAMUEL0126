@@ -8,10 +8,10 @@
   <img height="161em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAMUEL0126&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
    <br>
-    <p><b>
+  
 - Hola, soy Samuel Lopez M., un programador junior de Armenia - Quindío (Colombia). Tengo experiencia en lenguajes de programación como: JavaScript (React),(Jquery), Python (Django).
 
-- También tengo habilidades en el manejo de bases de datos como SQL Server y MySQL. Además, tengo experiencia en el desarrollo web con Django </b></p>
+- También tengo habilidades en el manejo de bases de datos como SQL Server y MySQL. Además, tengo experiencia en el desarrollo web con Django 
   <hr>
   
   <p><b>- Front-End -</b></p>
